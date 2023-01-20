@@ -1,6 +1,6 @@
 # React Isometric Weather Dashboard
 Isometric weather dashboard for the specified city for the next 7 days written in React. <br><br>
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react" width="10%" height="10%"> <br><br>
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nodejs" width="10%" height="10%"> <br><br>
 
 # Description
 The Weather web app was created to practice React and API usage. To make my weather dashboard to look different and interesting weather data is displayed isometrically to give user a 3D feel. In the future I may add the animated word cloud with city names to click to display the weather and make the forecast cells clickable.<br><br>
