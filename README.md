@@ -28,7 +28,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.<br><br>
 
 
-# <a href="https://weather.iamalwayshome.com/" target="_blank">See it live</a>
+# <a href="https://react-weather.iamalwayshome.com/" target="_blank">See it live</a>
 ![screen1](https://i.ibb.co/fCqkMVS/Screenshot-from-2023-01-19-23-14-56.png "weatherapp_page1")
 
 
